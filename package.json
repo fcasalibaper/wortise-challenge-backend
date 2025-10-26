@@ -1,0 +1,10 @@
+{
+  "name": "wortise-challenge-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@ai-sdk/google-vertex": "^3.0.53",
+    "ai": "^4.0.0",
+    "cors": "^2.8.5"
+  }
+}
